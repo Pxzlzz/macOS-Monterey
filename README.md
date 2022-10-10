@@ -8,9 +8,11 @@
 2. A macOS ipsw file via [ipsw.me](https://ipsw.me/product/Mac).
 3. [UTM](https://mac.getutm.app)
 
-## Installation
+## Usage
 
-Download the latest prebuilt .utm file from the the **[GitHub releases](https://github.com/pxzlzz/macos-monterey/releases)** page.
+1. Launch UTM and click "Create a Virtual Machine"
+2. Select your ipsw file and continue with setup
+3. Let macOS install DO NOT TURN OFF YOUR MAC.
 
 ## Maintainers
 
