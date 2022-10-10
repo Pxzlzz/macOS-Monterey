@@ -2,6 +2,10 @@
 <h3 align="center">macOS Monterey</h3>
 <p align="center">🖥 Install macOS Monterey as a VM under UTM</p>
 
+## Screenshots
+
+<p align="center"><img src="https://github.com/Pxzlzz/macOS-Monterey/blob/main/assets/vm.png?raw=true" height="512" alt="monterey vm"></p>
+
 ## Requirements
 
 1. Any macOS device with an M1 processor.
