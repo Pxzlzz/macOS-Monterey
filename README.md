@@ -5,7 +5,7 @@
 ## Requirements
 
 1. Any macOS device with an M1 processor.
-2. A macOS ipsw file via [ipsw.me](https://ipsw.me/).
+2. A macOS ipsw file via [ipsw.me](https://ipsw.me/product/Mac).
 3. [UTM](https://mac.getutm.app)
 
 ## Installation
