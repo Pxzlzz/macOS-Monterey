@@ -20,7 +20,7 @@
 
 ## Maintainers
 
-* [wocky](https://github.com/Pxzlzzz)
+* [Pxzlz](https://github.com/pxzlz-ctrl)
 
 ## License
 
